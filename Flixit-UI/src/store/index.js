@@ -101,7 +101,7 @@ import {
       const {
         data: { movies },
       } = await axios.get(
-        `https://flixit-api-nrca.onrender.com/api/user/liked/${email}`
+        `https://flixxit-rry5.onrender.com/api/user/liked/${email}`
       );
       return movies;
     }
@@ -113,7 +113,7 @@ import {
       const {
         data: { movies },
       } = await axios.put(
-        `https://flixit-api-nrca.onrender.com/api/user/delete`,
+        `https://flixxit-rry5.onrender.com/api/user/delete`,
         {
           email,
           movieId,
