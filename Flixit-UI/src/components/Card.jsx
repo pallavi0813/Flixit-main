@@ -27,7 +27,7 @@ const Card = React.memo(({movieData, isLiked = false}) => {
 
   const addToList = async () => {
     try {
-        await axios.post("https://flixit-api-nrca.onrender.com/api/user/add", {email, data: movieData})
+        await axios.post("https://flixxit-rry5.onrender.com/api/user/add", {email, data: movieData})
     } catch (err) {
         console.log(err);
     }
