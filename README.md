@@ -163,4 +163,4 @@ Join the Flixit community today and unlock a world of entertainment that knows n
 ![Action Movies](Project-snapshots/Action%20Movies.jpg)
 ![Epics](Project-snapshots/Epics.jpg)
 
-**All Rights Reserved - Manjunath Ramoji**
+
